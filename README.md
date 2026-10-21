@@ -18,4 +18,4 @@ gcc lex.yy.c -o lexer_cobol
 
 Também é fornecido um script bash `rodar_testes.sh` para rodar o lexer nos programas COBOL dentro da pasta `Programas COBOL`. Uma série de programas COBOL de exemplo fornecidos pelo professor estão disponíveis lá.
 
-Um relatório com as saídas do Lexer nos programas fornecidos pode ser visto em `resultados_lexer.txt`
+Um relatório do projeto pode ser visto em `RELATORIO.md`.
